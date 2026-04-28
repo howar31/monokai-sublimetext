@@ -71,6 +71,8 @@ Then set in your Ghostty config (`~/.config/ghostty/config`):
 theme = Monokai SublimeText
 ```
 
+> **Also works with [CMUX](https://github.com/manaflow-ai/cmux):** CMUX reuses Ghostty's `theme`, `font`, and config directly, so the steps above are all you need — no extra setup required.
+
 ### Neovim
 
 #### Using [lazy.nvim](https://github.com/folke/lazy.nvim)
