@@ -1,11 +1,15 @@
+<div align="center">
+
 # Monokai SublimeText
 
-[![License: MIT](https://img.shields.io/github/license/howar31/monokai-sublimetext)](LICENSE)
-[![Last Commit](https://img.shields.io/github/last-commit/howar31/monokai-sublimetext)](https://github.com/howar31/monokai-sublimetext/commits)
-[![Stars](https://img.shields.io/github/stars/howar31/monokai-sublimetext?style=social)](https://github.com/howar31/monokai-sublimetext)
-[![Made with Lua](https://img.shields.io/badge/made%20with-Lua-2C2D72?logo=lua&logoColor=white)](https://www.lua.org)
-[![Conventional Commits](https://img.shields.io/badge/conventional%20commits-1.0.0-yellow)](https://conventionalcommits.org)
-[![Ko-fi](https://img.shields.io/badge/sponsor-Ko--fi-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/howar31)
+[![License: MIT](https://img.shields.io/github/license/howar31/monokai-sublimetext?style=flat-square&color=A6E22E&labelColor=272822)](LICENSE)
+[![Last Commit](https://img.shields.io/github/last-commit/howar31/monokai-sublimetext?style=flat-square&color=66D9EF&labelColor=272822)](https://github.com/howar31/monokai-sublimetext/commits)
+[![Stars](https://img.shields.io/github/stars/howar31/monokai-sublimetext?style=flat-square&logo=github&color=E6DB74&labelColor=272822)](https://github.com/howar31/monokai-sublimetext)
+[![Made with Lua](https://img.shields.io/badge/Made%20with-Lua-AE81FF?style=flat-square&logo=lua&logoColor=F8F8F2&labelColor=272822)](https://www.lua.org)
+[![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-FD971F?style=flat-square&labelColor=272822)](https://conventionalcommits.org)
+[![Ko-fi](https://img.shields.io/badge/Sponsor-Ko--fi-F92672?style=flat-square&logo=ko-fi&logoColor=F8F8F2&labelColor=272822)](https://ko-fi.com/howar31)
+
+</div>
 
 A faithful Monokai color scheme with proper ANSI terminal color mapping for modern terminal emulators and editors.
 
