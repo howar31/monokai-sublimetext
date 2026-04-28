@@ -1,0 +1,50 @@
+{
+  "name": "Monokai SublimeText",
+  "author": "Howar31",
+  "description": "Monokai color scheme with proper ANSI terminal mapping, inspired by VS Code/Cursor Monokai and the original Sublime Text 2 Monokai by Wimer Hazenberg.",
+  "ansi": {
+    "0":  "#333333",
+    "1":  "#C4265E",
+    "2":  "#86B42B",
+    "3":  "#B3B42B",
+    "4":  "#6A7EC8",
+    "5":  "#8C6BC8",
+    "6":  "#56ADBC",
+    "7":  "#e3e3dd",
+    "8":  "#666666",
+    "9":  "#f92672",
+    "10": "#A6E22E",
+    "11": "#e2e22e",
+    "12": "#819aff",
+    "13": "#AE81FF",
+    "14": "#66D9EF",
+    "15": "#f8f8f2"
+  },
+  "terminal": {
+    "background": "#272822",
+    "foreground": "#f8f8f2",
+    "cursor": "#f8f8f0",
+    "cursorText": "#272822",
+    "selectionBackground": "#49483e",
+    "selectionForeground": "#f8f8f2"
+  },
+  "syntax": {
+    "comment": "#75715E",
+    "string": "#E6DB74",
+    "keyword": "#F92672",
+    "function": "#A6E22E",
+    "number": "#AE81FF",
+    "type": "#66D9EF",
+    "operator": "#F92672",
+    "parameter": "#FD971F",
+    "tag": "#F92672",
+    "attribute": "#A6E22E"
+  },
+  "ui": {
+    "lineHighlight": "#3e3d32",
+    "selection": "#49483e",
+    "findHighlight": "#E6DB74",
+    "gutter": "#75715E",
+    "guide": "#3b3a32"
+  }
+}
