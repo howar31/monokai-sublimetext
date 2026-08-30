@@ -7,7 +7,7 @@
 [![Stars](https://img.shields.io/github/stars/howar31/monokai-sublimetext?style=flat-square&logo=github&color=E6DB74&labelColor=272822)](https://github.com/howar31/monokai-sublimetext)
 [![Made with Lua](https://img.shields.io/badge/Made%20with-Lua-AE81FF?style=flat-square&logo=lua&logoColor=F8F8F2&labelColor=272822)](https://www.lua.org)
 [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-FD971F?style=flat-square&labelColor=272822)](https://conventionalcommits.org)
-[![Ko-fi](https://img.shields.io/badge/Sponsor-Ko--fi-F92672?style=flat-square&logo=ko-fi&logoColor=F8F8F2&labelColor=272822)](https://ko-fi.com/howar31)
+[![Sponsor](https://img.shields.io/badge/Sponsor-donate.howar31.com-F92672?style=flat-square&logoColor=F8F8F2&labelColor=272822&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjg0IDQuNjFhNS41IDUuNSAwIDAgMC03Ljc4IDBMMTIgNS42N2wtMS4wNi0xLjA2YTUuNSA1LjUgMCAwIDAtNy43OCA3Ljc4bDEuMDYgMS4wNkwxMiAyMS4yM2w3Ljc4LTcuNzggMS4wNi0xLjA2YTUuNSA1LjUgMCAwIDAgMC03Ljc4eiIvPjwvc3ZnPg==)](https://donate.howar31.com/)
 
 </div>
 
